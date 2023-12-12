@@ -1,1 +1,1 @@
-# secgo
+# Brain tumor dataset
